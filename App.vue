@@ -21,3 +21,9 @@ export default {
 }
 /* #endif */
 </style>
+
+<style lang="less">
+// @import './assets/css/reset.css';
+// @import 'vant/lib/index.css';
+@import '@/common/css/theme.less';
+</style>

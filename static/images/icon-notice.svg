@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>违章查询</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="63.7268692%" y1="100%" x2="36.0783002%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FF406C" offset="0%"></stop>
+            <stop stop-color="#FF629F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.3613367%" y1="100%" x2="47.3613367%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#EC6BB5" offset="0%"></stop>
+            <stop stop-color="#F24B99" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-8备份" transform="translate(-28.000000, -297.000000)">
+            <g id="违章查询" transform="translate(26.000000, 296.000000)">
+                <path d="M12,1.86666667 C15.6818983,1.86666667 18.6666667,4.851435 18.6666667,8.53333333 L18.6666667,16.8 C18.6666667,18.1254834 17.5921501,19.2 16.2666667,19.2 L7.73333333,19.2 C6.40784993,19.2 5.33333333,18.1254834 5.33333333,16.8 L5.33333333,8.53333333 C5.33333333,4.851435 8.31810167,1.86666667 12,1.86666667 Z" id="矩形" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                <path d="M12.8166667,7.46666667 C11.6292545,7.46666667 10.6666667,8.4814879 10.6666667,9.73333333 C10.6666667,10.9851788 11.6292545,12 12.8166667,12" id="路径" stroke="#DA1848" stroke-width="1.86666667" stroke-linecap="round"></path>
+                <path d="M5.6,15.4666667 L18.4,15.4666667 C20.0200353,15.4666667 21.3333333,16.7799647 21.3333333,18.4 L21.3333333,19.7333333 C21.3333333,20.6169889 20.6169889,21.3333333 19.7333333,21.3333333 L4.26666667,21.3333333 C3.38301107,21.3333333 2.66666667,20.6169889 2.66666667,19.7333333 L2.66666667,18.4 C2.66666667,16.7799647 3.97996473,15.4666667 5.6,15.4666667 Z" id="矩形" fill="url(#linearGradient-2)" fill-rule="nonzero" style="mix-blend-mode: multiply;"></path>
+            </g>
+        </g>
+    </g>
+</svg>

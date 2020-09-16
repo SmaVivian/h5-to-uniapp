@@ -1,0 +1,184 @@
+// html,
+// body {
+//   height: 100%;
+//   overflow: hidden;
+// }
+body {
+  font-family: 'PingFangSC-Regular', 'Microsoft YaHei', Helvetica;
+  background: #fff;
+}
+
+#app {
+  // height: 100%;
+  // font-family: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', '微软雅黑',
+  //   Arial, sans-serif;
+  // word-break: break-all;
+  // overflow: hidden;
+  // overflow-x: hidden;
+  // overflow-y: auto;
+  // -webkit-overflow-scrolling: touch;
+  // font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+  // font-family: "Microsoft YaHei", 'Avenir', Helvetica, Arial, sans-serif;
+  // -webkit-font-smoothing: antialiased;
+  // -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: @color2;
+}
+
+.ell {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+// IE不兼容
+.two-ell {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  /* autoprefixer: ignore next */
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.clearfix:after,
+.clearfix:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.fr {
+  float: right;
+}
+
+.fl {
+  float: left;
+}
+
+.tl {
+  text-align: left;
+}
+
+.tr {
+  text-align: right;
+}
+
+.tc {
+  text-align: center;
+}
+
+.ml-5 {
+  margin-left: 10rpx;
+}
+
+.ml-10 {
+  margin-left: 20rpx;
+}
+
+.ml-20 {
+  margin-left: 40rpx;
+}
+
+.ml-30 {
+  margin-left: 60rpx;
+}
+
+.mr-5 {
+  margin-right: 10rpx;
+}
+
+.mr-10 {
+  margin-right: 20rpx;
+}
+
+.mr-20 {
+  margin-right: 40rpx;
+}
+
+.mr-30 {
+  margin-right: 60rpx;
+}
+
+.mt-5 {
+  margin-top: 10rpx;
+}
+
+.mt-10 {
+  margin-top: 20rpx;
+}
+
+.mt-20 {
+  margin-top: 40rpx;
+}
+
+.mt-30 {
+  margin-top: 60rpx;
+}
+
+.mb-5 {
+  margin-bottom: 10rpx;
+}
+
+.mb-10 {
+  margin-bottom: 20rpx;
+}
+
+.mb-15 {
+  margin-bottom: 30rpx;
+}
+
+.mb-20 {
+  margin-bottom: 40rpx;
+}
+
+.mb-30 {
+  margin-bottom: 60rpx;
+}
+
+.g-container {
+  width: 100%;
+  // position: relative;
+  // min-height: 100%;
+  // box-sizing: border-box;
+  // overflow: hidden;
+}
+
+// .g-scroll-touch {
+//   position: static;
+//   height: 100%;
+//   overflow-y: scroll;
+//   -webkit-overflow-scrolling: touch;
+// }
+
+.g-no-data {
+  img {
+    width: 184rpx;
+    height: 236rpx;
+  }
+}
+
+.com-tag {
+  display: inline-block;
+  color: #666;
+  background: #e0ebfa;
+  border-radius: 6rpx;
+  font-size: 24rpx;
+  line-height: 40rpx;
+  padding: 0 10rpx;
+  // color: @warning;
+  // font-size: 24rpx;
+  // padding: 4rpx 10rpx;
+  // border-radius: 20rpx;
+  // border: 2rpx solid @warning;
+}

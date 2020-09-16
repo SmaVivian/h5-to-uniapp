@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>历史</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="73.198409%" y1="100%" x2="26.4723273%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FF406C" offset="0%"></stop>
+            <stop stop-color="#FF629F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-8备份" transform="translate(-16.000000, -568.000000)">
+            <g id="编组-3" transform="translate(16.000000, 568.000000)">
+                <g id="历史">
+                    <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+                    <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="12" cy="12.5333333" r="9.33333333"></circle>
+                    <path d="M6.66666667,4.53333333 C5.49424614,5.30048318 4.49357682,6.30073825 3.73333333,7.46666667 M20.2666667,7.46666667 C19.5628224,6.31473445 18.6558043,5.31757479 17.6,4.53333333" id="Shape" stroke="#FF7DC7" stroke-width="4" style="mix-blend-mode: normal;" stroke-linecap="round" fill-rule="nonzero"></path>
+                    <line x1="11.8666667" y1="8.66666667" x2="11.8666667" y2="13.0666667" id="Path-2" stroke="#D40D3A" stroke-width="2.4" opacity="0.800000012" stroke-linecap="round" fill-rule="nonzero"></line>
+                    <line x1="13.6" y1="15.0606927" x2="11.8666667" y2="13.0666667" id="Path-2-Copy" stroke="#D40D3A" stroke-width="2.4" stroke-linecap="round" fill-rule="nonzero"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

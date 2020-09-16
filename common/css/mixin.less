@@ -1,0 +1,72 @@
+// 设置全局变量
+// @minWidth: 1440px;
+@headerHeight: 50px;
+@primary: #bd1b2d;
+// @primary: #009ee1;
+// @info: #34bfa3;
+@success: #7bd166;
+@warning: #ff8d64;
+// @danger: #f25151;
+@border: #bcbbd5;
+
+@bg1: #f2f3f8;
+
+@fontSizeTitle: 18px; // 标题大小
+@fontSize: 14px; // 主字体大小
+@fontSizeMini: 12px; // 小字体
+@fontSize1: 16px; // 其他字体
+
+@color1: #262628;
+@color2: #565862; // 主字体颜色
+@color3: #949397;
+
+// 重置vant样式
+// .van-cell {
+//   color: @color1;
+// }
+.van-cell {
+	position: relative;
+	display: flex;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 10px 16px;
+	overflow: hidden;
+	color: @color1;
+	font-size: 14px;
+	line-height: 24px;
+	background-color: #fff;
+	outline: none;
+}
+
+.van-button {
+  font-size: 14px;
+}
+
+.van-button--primary {
+  border: none;
+}
+
+.van-button--small {
+  padding: 0 10px;
+}
+
+// 不转换为视窗单位的类
+// .van-button.ignore {
+//   border-radius: 14px;
+// }
+
+.van-tabs__line {
+  // background-color: @primary;
+}
+
+// tab border
+.van-hairline--top-bottom:after {
+  border: none;
+  border-bottom: 1px dashed @border;
+}
+
+// 下拉菜单border
+.van-dropdown-menu:after {
+  border: none;
+}
+

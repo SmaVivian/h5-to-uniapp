@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>目的地</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+        <linearGradient x1="18.3989357%" y1="12.3355301%" x2="83.1761068%" y2="87.2353747%" id="linearGradient-3">
+            <stop stop-color="#9549FF" offset="0%"></stop>
+            <stop stop-color="#7511FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#CF77FF" offset="0%"></stop>
+            <stop stop-color="#C861FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-8备份" transform="translate(-16.000000, -654.000000)">
+            <g id="编组-2" transform="translate(16.000000, 654.000000)">
+                <g id="目的地">
+                    <g id="线上模板-copy-11-+-合并形状-+-椭圆形-+-矩形-Mask">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <circle id="合并形状" fill="url(#linearGradient-3)" style="mix-blend-mode: multiply;" mask="url(#mask-2)" transform="translate(12.000000, 10.133333) rotate(45.000000) translate(-12.000000, -10.133333) " cx="12" cy="10.1333333" r="8.8"></circle>
+                        <circle id="椭圆形" fill="#AC71FF" mask="url(#mask-2)" cx="12" cy="10.1333333" r="1.86666667"></circle>
+                        <path d="M16.4,11.9577907 L16.4,11.9577907 L16.4,11.9577907 L16.4,19.1577907 C16.4,20.0414463 15.6836556,20.7577907 14.8,20.7577907 L7.6,20.7577907 L7.6,20.7577907 C7.6,15.8976849 11.5398942,11.9577907 16.4,11.9577907 Z" id="矩形" fill="url(#linearGradient-4)" style="mix-blend-mode: multiply;" mask="url(#mask-2)" transform="translate(12.000000, 16.357791) rotate(45.000000) translate(-12.000000, -16.357791) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
